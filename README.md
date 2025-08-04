@@ -22,5 +22,3 @@ But if the file was nowhere to be found, it politely said:
 > “File not found.”
 
 And so, this little Python script became a kind and curious assistant — always ready to read, write, and help users explore the magic hidden in their files.
-
-Let me know if you'd like it more professional or more poetic — or both!
